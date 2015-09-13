@@ -1,0 +1,27 @@
+/* Settings
+====================================== */
+
+button {
+  margin-top: 15px;
+}
+
+.settings-table {
+  tr {
+    margin-bottom: 100px;
+  }
+
+  th {
+    text-align: right;
+    padding-right: 15px;
+    font-weight: normal;
+  }
+
+  input {
+    margin-bottom: 5px;
+  }
+}
+
+.settings-error {
+  margin-left: 15px;
+  vertical-align: middle;
+}
